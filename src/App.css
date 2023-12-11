@@ -1,0 +1,28 @@
+p{
+    color: red;
+}
+body{
+    background-color: gray;
+}
+.body{
+    border: 1px solid black;
+    width: max-content;
+    padding: 3vh;
+    margin: 18vh auto;
+    background-color: white;
+}
+input{
+    font-size: 3vh;
+    padding: 2vh;
+    background-color: rgb(206, 204, 204);
+    border: 0;
+}
+.btn{
+    text-align: center;
+    width: 10vw;
+    font-size: 3vh;
+    background-color: green;
+    color: white;
+    margin-left: 5vw;
+    padding: 1vh;
+}
